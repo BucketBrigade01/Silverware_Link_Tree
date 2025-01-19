@@ -29,7 +29,7 @@ function Card() {
       <a 
         href="https://www.facebook.com/profile.php?id=100092845976787" 
         target="_blank"
-        className="relative text-amber-400 transform -rotate-6 md:rotate-0 [text-shadow:_1px_1px_0_rgb(213_54_0_/_100%),_3px_2px_0_rgb(0_0_0_/_100%)] font-bold hover:text-orange-500 text-4xl md:text-2xl transition-all duration-200"
+        className="relative pb-8 text-amber-400 transform -rotate-6 md:rotate-0 [text-shadow:_1px_1px_0_rgb(213_54_0_/_100%),_3px_2px_0_rgb(0_0_0_/_100%)] font-bold hover:text-orange-500 text-4xl md:text-2xl transition-all duration-200"
       >
         FACEBOOK
       </a>
