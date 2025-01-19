@@ -11,19 +11,19 @@ function Card() {
       <a 
         href="https://open.spotify.com/artist/67y3Exu2lTpy9Vp4evxHEB" 
         target="_blank"
-        className="flex-2 pb-16 pt-12 md:pb-4 md:pt-0 text-amber-400 md:rotate-0 [text-shadow:_1px_1px_0_rgb(213_54_0_/_100%),_3px_2px_0_rgb(0_0_0_/_100%)] font-bold text-4xl md:text-2xl hover:text-orange-500 transition-all duration-200">
+        className="flex-2 pb-8 pt-12 md:pb-4 md:pt-0 text-amber-400 md:rotate-0 [text-shadow:_1px_1px_0_rgb(213_54_0_/_100%),_3px_2px_0_rgb(0_0_0_/_100%)] font-bold text-4xl md:text-2xl hover:text-orange-500 transition-all duration-200">
         SPOTIFY
       </a>
       <a 
         href="https://www.instagram.com/silverware_band/" 
         target="_blank"
-        className="flex-2 pb-16 md:pb-4 text-amber-400 md:rotate-0 [text-shadow:_1px_1px_0_rgb(213_54_0_/_100%),_3px_2px_0_rgb(0_0_0_/_100%)] font-bold text-4xl md:text-2xl hover:text-orange-500 transition-all duration-200">
+        className="flex-2 pb-8 md:pb-4 text-amber-400 md:rotate-0 [text-shadow:_1px_1px_0_rgb(213_54_0_/_100%),_3px_2px_0_rgb(0_0_0_/_100%)] font-bold text-4xl md:text-2xl hover:text-orange-500 transition-all duration-200">
         INSTAGRAM
       </a>
       <a 
         href="https://music.apple.com/za/artist/silverware/1688771856" 
         target="_blank"
-        className="flex-2 pb-16 md:pb-4 text-amber-400 md:rotate-0 [text-shadow:_1px_1px_0_rgb(213_54_0_/_100%),_3px_2px_0_rgb(0_0_0_/_100%)] font-bold text-4xl md:text-2xl hover:text-orange-500 transition-all duration-200">
+        className="flex-2 pb-8 md:pb-4 text-amber-400 md:rotate-0 [text-shadow:_1px_1px_0_rgb(213_54_0_/_100%),_3px_2px_0_rgb(0_0_0_/_100%)] font-bold text-4xl md:text-2xl hover:text-orange-500 transition-all duration-200">
         APPLE MUSIC
       </a>
       <a 
